@@ -3,7 +3,7 @@
   "label": "November 2026",
   "date_range": {
     "start": "2026-11-01",
-    "end": "2026-11-20",
+    "end": "2026-11-23",
     "days": 30
   },
   "team_kpis": {
@@ -23,13 +23,13 @@
   "totals": {
     "cpl": {
       "kpi": 4000,
-      "mtd": 2,
-      "rr": 3
+      "mtd": 4,
+      "rr": 5
     },
     "signups": {
       "kpi": 1000,
-      "mtd": 270,
-      "rr": 405
+      "mtd": 325,
+      "rr": 424
     },
     "cpr": {
       "kpi": 200,
@@ -38,13 +38,13 @@
     },
     "cpa": {
       "kpi": 250,
-      "mtd": 22,
-      "rr": 33
+      "mtd": 26,
+      "rr": 34
     },
-    "revenue": 3225.0,
-    "budget": 940.0,
-    "profit": 2285.0,
-    "roi": "1:3.43"
+    "revenue": 3785.0,
+    "budget": 1060.0,
+    "profit": 2725.0,
+    "roi": "1:3.57"
   },
   "daily_series": [
     {
@@ -127,24 +127,24 @@
     {
       "date": "2026-11-21",
       "label": "Nov 21",
-      "period": "19-20",
-      "leads": 0,
-      "signups": 40,
+      "period": "19-21",
+      "leads": 1,
+      "signups": 58,
       "cpr": 0.0,
-      "users": 3,
-      "rev": 515,
-      "budget": 200
+      "users": 4,
+      "rev": 700,
+      "budget": 240
     },
     {
       "date": "2026-11-24",
       "label": "Nov 24",
-      "period": "22-24",
-      "leads": 0,
-      "signups": 0,
+      "period": "22-23",
+      "leads": 1,
+      "signups": 37,
       "cpr": 0.0,
-      "users": 0,
-      "rev": 0,
-      "budget": 0
+      "users": 3,
+      "rev": 375,
+      "budget": 80
     },
     {
       "date": "2026-11-27",
@@ -174,90 +174,105 @@
       "name": "WIZ",
       "cplMtd": 0,
       "cplRr": 0,
-      "sigMtd": 158,
-      "sigRr": 237,
+      "sigMtd": 150,
+      "sigRr": 196,
       "cprMtd": 0,
       "cprRr": 0,
-      "cpaMtd": 14,
-      "cpaRr": 21,
-      "rev": 2015.0,
-      "budget": 630,
-      "profit": 1385.0,
-      "status": "working-well"
-    },
-    {
-      "name": "WDG",
-      "cplMtd": 0,
-      "cplRr": 0,
-      "sigMtd": 31,
-      "sigRr": 47,
-      "cprMtd": 0,
-      "cprRr": 0,
-      "cpaMtd": 3,
-      "cpaRr": 5,
-      "rev": 390.0,
-      "budget": 80,
-      "profit": 310.0,
+      "cpaMtd": 17,
+      "cpaRr": 22,
+      "rev": 2425.0,
+      "budget": 750,
+      "profit": 1675.0,
       "status": "working-well"
     },
     {
       "name": "CSH",
       "cplMtd": 0,
       "cplRr": 0,
-      "sigMtd": 19,
-      "sigRr": 29,
+      "sigMtd": 56,
+      "sigRr": 73,
       "cprMtd": 0,
       "cprRr": 0,
-      "cpaMtd": 0,
-      "cpaRr": 0,
-      "rev": 0,
+      "cpaMtd": 1,
+      "cpaRr": 1,
+      "rev": 150.0,
       "budget": 120,
-      "profit": -120.0,
-      "status": "neutral"
+      "profit": 30.0,
+      "status": "working-well"
+    },
+    {
+      "name": "WDG",
+      "cplMtd": 0,
+      "cplRr": 0,
+      "sigMtd": 42,
+      "sigRr": 55,
+      "cprMtd": 0,
+      "cprRr": 0,
+      "cpaMtd": 3,
+      "cpaRr": 4,
+      "rev": 390.0,
+      "budget": 80,
+      "profit": 310.0,
+      "status": "working-well"
     },
     {
       "name": "VENE",
       "cplMtd": 0,
       "cplRr": 0,
-      "sigMtd": 17,
-      "sigRr": 26,
+      "sigMtd": 19,
+      "sigRr": 25,
       "cprMtd": 0,
       "cprRr": 0,
       "cpaMtd": 1,
-      "cpaRr": 2,
+      "cpaRr": 1,
       "rev": 170.0,
       "budget": 0,
       "profit": 170.0,
       "status": "working-well"
     },
     {
-      "name": "FZY",
+      "name": "LUM",
       "cplMtd": 0,
       "cplRr": 0,
-      "sigMtd": 9,
+      "sigMtd": 11,
       "sigRr": 14,
       "cprMtd": 0,
       "cprRr": 0,
-      "cpaMtd": 3,
-      "cpaRr": 5,
-      "rev": 500.0,
-      "budget": 110,
-      "profit": 390.0,
-      "status": "working-well"
+      "cpaMtd": 0,
+      "cpaRr": 0,
+      "rev": 0,
+      "budget": 0,
+      "profit": 0,
+      "status": "neutral"
     },
     {
       "name": "ADM",
       "cplMtd": 0,
       "cplRr": 0,
-      "sigMtd": 7,
-      "sigRr": 11,
+      "sigMtd": 10,
+      "sigRr": 13,
       "cprMtd": 0,
       "cprRr": 0,
       "cpaMtd": 1,
-      "cpaRr": 2,
+      "cpaRr": 1,
       "rev": 150.0,
       "budget": 0,
       "profit": 150.0,
+      "status": "working-well"
+    },
+    {
+      "name": "FZY",
+      "cplMtd": 0,
+      "cplRr": 0,
+      "sigMtd": 10,
+      "sigRr": 13,
+      "cprMtd": 0,
+      "cprRr": 0,
+      "cpaMtd": 3,
+      "cpaRr": 4,
+      "rev": 500.0,
+      "budget": 110,
+      "profit": 390.0,
       "status": "working-well"
     },
     {
@@ -265,7 +280,7 @@
       "cplMtd": 0,
       "cplRr": 0,
       "sigMtd": 6,
-      "sigRr": 9,
+      "sigRr": 8,
       "cprMtd": 0,
       "cprRr": 0,
       "cpaMtd": 0,
@@ -280,7 +295,7 @@
       "cplMtd": 0,
       "cplRr": 0,
       "sigMtd": 5,
-      "sigRr": 8,
+      "sigRr": 7,
       "cprMtd": 0,
       "cprRr": 0,
       "cpaMtd": 0,
@@ -295,7 +310,7 @@
       "cplMtd": 0,
       "cplRr": 0,
       "sigMtd": 5,
-      "sigRr": 8,
+      "sigRr": 7,
       "cprMtd": 0,
       "cprRr": 0,
       "cpaMtd": 0,
@@ -310,7 +325,7 @@
       "cplMtd": 0,
       "cplRr": 0,
       "sigMtd": 3,
-      "sigRr": 5,
+      "sigRr": 4,
       "cprMtd": 0,
       "cprRr": 0,
       "cpaMtd": 0,
@@ -321,11 +336,11 @@
       "status": "neutral"
     },
     {
-      "name": "LUM",
-      "cplMtd": 0,
-      "cplRr": 0,
-      "sigMtd": 3,
-      "sigRr": 5,
+      "name": "CHA",
+      "cplMtd": 3,
+      "cplRr": 4,
+      "sigMtd": 2,
+      "sigRr": 3,
       "cprMtd": 0,
       "cprRr": 0,
       "cpaMtd": 0,
@@ -381,24 +396,9 @@
       "status": "neutral"
     },
     {
-      "name": "CHA",
-      "cplMtd": 1,
-      "cplRr": 2,
-      "sigMtd": 1,
-      "sigRr": 2,
-      "cprMtd": 0,
-      "cprRr": 0,
-      "cpaMtd": 0,
-      "cpaRr": 0,
-      "rev": 0,
-      "budget": 0,
-      "profit": 0,
-      "status": "neutral"
-    },
-    {
       "name": "LGL",
       "cplMtd": 1,
-      "cplRr": 2,
+      "cplRr": 1,
       "sigMtd": 0,
       "sigRr": 0,
       "cprMtd": 0,
@@ -435,12 +435,12 @@
     {
       "advertiser": "ALL IN AFFILIATES",
       "brand": "7Bit Casino",
-      "signups": 9,
+      "signups": 10,
       "ftd": 0,
       "revenue": 0.0,
       "budget": 0.0,
       "profit": 0.0,
-      "media_partners": "ADM (3 SignUps) | SDI (1 SignUps) | WDG (5 SignUps)"
+      "media_partners": "ADM (4 SignUps) | SDI (1 SignUps) | WDG (5 SignUps)"
     },
     {
       "advertiser": "ALL IN AFFILIATES",
@@ -455,12 +455,12 @@
     {
       "advertiser": "ALL IN AFFILIATES",
       "brand": "Ice Casino",
-      "signups": 11,
+      "signups": 13,
       "ftd": 0,
       "revenue": 0.0,
       "budget": 0.0,
       "profit": 0.0,
-      "media_partners": "WDG (11 SignUps)"
+      "media_partners": "WDG (13 SignUps)"
     },
     {
       "advertiser": "ALL IN AFFILIATES",
@@ -525,42 +525,42 @@
     {
       "advertiser": "BASHER AGENCY",
       "brand": "Fortuneplay",
-      "signups": 15,
+      "signups": 25,
       "ftd": 3,
       "revenue": 390.0,
       "budget": 80.0,
       "profit": 310.0,
-      "media_partners": "LUM (2 SignUps) | SDI (4 SignUps) | WDG (9 SignUps, 3 Ftd, $390.00)"
+      "media_partners": "LUM (8 SignUps) | SDI (4 SignUps) | WDG (13 SignUps, 3 Ftd, $390.00)"
     },
     {
       "advertiser": "BASHER AGENCY",
       "brand": "Cazimbo",
-      "signups": 2,
+      "signups": 3,
       "ftd": 0,
       "revenue": 0.0,
       "budget": 0.0,
       "profit": 0.0,
-      "media_partners": "WDG (2 SignUps)"
+      "media_partners": "WDG (3 SignUps)"
     },
     {
       "advertiser": "BASHER AGENCY",
       "brand": "LavishLuck Sweepstakes Casino",
-      "signups": 20,
+      "signups": 47,
       "ftd": 0,
       "revenue": 0.0,
       "budget": 0.0,
       "profit": 0.0,
-      "media_partners": "WIZ (20 SignUps)"
+      "media_partners": "CSH (28 SignUps) | WIZ (19 SignUps)"
     },
     {
       "advertiser": "BASHER AGENCY",
       "brand": "Spin Grande",
-      "signups": 5,
+      "signups": 11,
       "ftd": 0,
       "revenue": 0.0,
       "budget": 0.0,
       "profit": 0.0,
-      "media_partners": "LUM (1 SignUps) | SDI (1 SignUps) | WDG (3 SignUps)"
+      "media_partners": "LUM (3 SignUps) | SDI (1 SignUps) | WDG (7 SignUps)"
     },
     {
       "advertiser": "BASHER AGENCY",
@@ -575,22 +575,22 @@
     {
       "advertiser": "CHANCED",
       "brand": "Chanced",
-      "signups": 19,
-      "ftd": 2,
-      "revenue": 300.0,
+      "signups": 39,
+      "ftd": 3,
+      "revenue": 450.0,
       "budget": 0.0,
-      "profit": 300.0,
-      "media_partners": "ADM (1 SignUps, 1 Ftd, $150.00) | CSH (9 SignUps) | EMO (1 SignUps) | FZY (1 SignUps) | WIZ (7 SignUps, 1 Ftd, $150.00)"
+      "profit": 450.0,
+      "media_partners": "ADM (2 SignUps, 1 Ftd, $150.00) | CHA (1 SignUps) | CSH (18 SignUps, 1 Ftd, $150.00) | EMO (1 SignUps) | FZY (1 SignUps) | WIZ (16 SignUps, 1 Ftd, $150.00)"
     },
     {
       "advertiser": "CHANCED",
       "brand": "Punt",
-      "signups": 5,
+      "signups": 10,
       "ftd": 1,
       "revenue": 150.0,
       "budget": 0.0,
       "profit": 150.0,
-      "media_partners": "FZY (2 SignUps, 1 Ftd, $150.00) | TRT (3 SignUps)"
+      "media_partners": "FZY (3 SignUps, 1 Ftd, $150.00) | TRT (3 SignUps) | WIZ (4 SignUps)"
     },
     {
       "advertiser": "COINSROYALE",
@@ -625,12 +625,12 @@
     {
       "advertiser": "Eskhol Real_LoneS",
       "brand": "LoneStar sweepstake casino",
-      "signups": 0,
+      "signups": 1,
       "ftd": 0,
       "revenue": 0.0,
       "budget": 0.0,
       "profit": 0.0,
-      "media_partners": "-"
+      "media_partners": "WIZ (1 SignUps)"
     },
     {
       "advertiser": "Eskhol Real_LoneS",
@@ -645,12 +645,22 @@
     {
       "advertiser": "GAMETIME DIGITAL",
       "brand": "Rolling Riches",
-      "signups": 79,
-      "ftd": 9,
-      "revenue": 1350.0,
-      "budget": 480.0,
-      "profit": 870.0,
-      "media_partners": "FZY (1 SignUps, 1 Ftd, $150.00) | WIZ (78 SignUps, 8 Ftd, $1,200.00)"
+      "signups": 58,
+      "ftd": 11,
+      "revenue": 1650.0,
+      "budget": 600.0,
+      "profit": 1050.0,
+      "media_partners": "FZY (1 SignUps, 1 Ftd, $150.00) | WIZ (57 SignUps, 10 Ftd, $1,500.00)"
+    },
+    {
+      "advertiser": "GAMETIME DIGITAL",
+      "brand": "CardCrush",
+      "signups": 13,
+      "ftd": 2,
+      "revenue": 220.0,
+      "budget": 0.0,
+      "profit": 220.0,
+      "media_partners": "ADM (1 SignUps) | WIZ (12 SignUps, 2 Ftd, $220.00)"
     },
     {
       "advertiser": "GAMETIME DIGITAL",
@@ -675,12 +685,12 @@
     {
       "advertiser": "GAMETIME DIGITAL",
       "brand": "The Boss",
-      "signups": 20,
+      "signups": 22,
       "ftd": 1,
       "revenue": 170.0,
       "budget": 0.0,
       "profit": 170.0,
-      "media_partners": "AWP (1 SignUps) | FST (2 SignUps) | VENE (17 SignUps, 1 Ftd, $170.00)"
+      "media_partners": "AWP (1 SignUps) | FST (2 SignUps) | VENE (19 SignUps, 1 Ftd, $170.00)"
     },
     {
       "advertiser": "GAMETIME DIGITAL",
@@ -695,12 +705,12 @@
     {
       "advertiser": "GAMETIME DIGITAL",
       "brand": "Lucky.Me",
-      "signups": 7,
+      "signups": 8,
       "ftd": 1,
       "revenue": 125.0,
       "budget": 0.0,
       "profit": 125.0,
-      "media_partners": "ADM (1 SignUps) | REP (1 SignUps) | WIZ (5 SignUps, 1 Ftd, $125.00)"
+      "media_partners": "ADM (2 SignUps) | REP (1 SignUps) | WIZ (5 SignUps, 1 Ftd, $125.00)"
     },
     {
       "advertiser": "GAMETIME DIGITAL",
@@ -711,16 +721,6 @@
       "budget": 0.0,
       "profit": 120.0,
       "media_partners": "WIZ (6 SignUps, 1 Ftd, $120.00)"
-    },
-    {
-      "advertiser": "GAMETIME DIGITAL",
-      "brand": "CardCrush",
-      "signups": 13,
-      "ftd": 1,
-      "revenue": 110.0,
-      "budget": 0.0,
-      "profit": 110.0,
-      "media_partners": "ADM (1 SignUps) | WIZ (12 SignUps, 1 Ftd, $110.00)"
     },
     {
       "advertiser": "GAMETIME DIGITAL",
@@ -944,11 +944,11 @@
     }
   ],
   "advertisers_brands_totals": {
-    "signups": 270,
-    "ftd": 22,
-    "revenue": 3225.0,
-    "budget": 940.0,
-    "profit": 2285.0
+    "signups": 325,
+    "ftd": 26,
+    "revenue": 3785.0,
+    "budget": 1060.0,
+    "profit": 2725.0
   },
   "inactive_partners": [
     "FXM",
